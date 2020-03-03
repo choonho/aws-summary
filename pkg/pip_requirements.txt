@@ -1,0 +1,7 @@
+--extra-index-url http://pypi.pyengine.net:8180/simple
+--trusted-host pypi.pyengine.net
+
+cloudone-core>=0.1.1
+cloudone-api>=0.1.1
+cloudone-tester
+docker

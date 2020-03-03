@@ -1,0 +1,5 @@
+GLOBAL:
+  SERVICE: inventory
+  ENDPOINTS:
+    inventory:
+      plugin: localhost:50051

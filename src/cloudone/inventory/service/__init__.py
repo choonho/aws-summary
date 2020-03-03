@@ -1,0 +1,1 @@
+from cloudone.inventory.service.collector_service import CollectorService
