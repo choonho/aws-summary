@@ -26,6 +26,7 @@ Parameter | Description | Option
 ---       | ---         | ---
 aws_access_key_id | your_access_key_id  | Mandatory 
 aws_secret_access_key | your_secret_access_key | Mandatory
+project_id | your_project_id | Optional
 
 <img src="https://raw.githubusercontent.com/spaceone-dev/aws-summary/master/docs/aws-summary-credential-1.png" height="200">
 
